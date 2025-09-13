@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "EasyEDA_Lib")(type "EasyEDA / JLCEDA Pro")(uri "${KIPRJMOD}/libs/EasyEDA_Lib/EasyEDA_Lib.elibz")(options "")(descr ""))
+  (lib (name "XTAL_LIB")(type "EasyEDA / JLCEDA Pro")(uri "${KIPRJMOD}/libs/XTAL_LIB/XTAL_LIB.elibz")(options "")(descr ""))
+  (lib (name "PushButton")(type "EasyEDA / JLCEDA Pro")(uri "${KIPRJMOD}/libs/PushButton/PushButton.elibz")(options "")(descr ""))
+  (lib (name "DIPswitch")(type "EasyEDA / JLCEDA Pro")(uri "${KIPRJMOD}/libs/DIPswitch/DIPswitch.elibz")(options "")(descr ""))
+  (lib (name "Buck")(type "EasyEDA / JLCEDA Pro")(uri "${KIPRJMOD}/libs/Buck/Buck.elibz")(options "")(descr ""))
+  (lib (name "PowerMux")(type "EasyEDA / JLCEDA Pro")(uri "${KIPRJMOD}/libs/PowerMux/PowerMux.elibz")(options "")(descr ""))
+)
