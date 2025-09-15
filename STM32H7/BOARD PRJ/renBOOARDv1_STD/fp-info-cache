@@ -1,4 +1,4 @@
-25208957173012666
+25208957173015825
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -370,6 +370,13 @@ battery CR-3032 coin cell vertical
 0
 2
 2
+Buck
+SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR
+
+
+0
+6
+6
 Button_Switch_Keyboard
 SW_Cherry_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
@@ -55978,6 +55985,13 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+DIPswitch
+SW-SMD_CJS-1201A
+
+
+0
+3
+3
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -88829,6 +88843,20 @@ Potentiometer vertical vishay
 0
 3
 3
+PowerMux
+SOT-583-8_L2.1-W1.2-P0.50-LS1.6-BL
+
+
+0
+8
+8
+PushButton
+SW-TH_L6.0-W3.5-P6.50
+
+
+0
+2
+2
 RF
 Skyworks_SKY13575_639LF
 http://www.skyworksinc.com/uploads/documents/SKY13575_639LF_203270D.pdf

@@ -6,4 +6,8 @@
   (lib (name "DIPswitch")(type "EasyEDA (JLCEDA) Pro")(uri "${KIPRJMOD}/libs/DIPswitch/DIPswitch.elibz")(options "")(descr ""))
   (lib (name "Buck")(type "EasyEDA (JLCEDA) Pro")(uri "${KIPRJMOD}/libs/Buck/Buck.elibz")(options "")(descr ""))
   (lib (name "PowerMux")(type "EasyEDA (JLCEDA) Pro")(uri "${KIPRJMOD}/libs/PowerMux/PowerMux.elibz")(options "")(descr ""))
+  (lib (name "USBC_SMD")(type "EasyEDA (JLCEDA) Pro")(uri "${KIPRJMOD}/libs/USBC_SMD/USBC_SMD.elibz")(options "")(descr ""))
+  (lib (name "USBC_TH")(type "EasyEDA (JLCEDA) Pro")(uri "${KIPRJMOD}/libs/USBC_TH/USBC_TH.elibz")(options "")(descr ""))
+  (lib (name "USBC_TH2")(type "EasyEDA (JLCEDA) Pro")(uri "${KIPRJMOD}/libs/USBC_TH2/USBC_TH2.elibz")(options "")(descr ""))
+  (lib (name "USB_TVS")(type "EasyEDA (JLCEDA) Pro")(uri "${KIPRJMOD}/libs/USB_TVS/USB_TVS.elibz")(options "")(descr ""))
 )
